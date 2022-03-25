@@ -123,6 +123,8 @@ export async function truncate(entities: Array<keyof IDatabaseCollections>, test
 		SharedCredentials: 'shared_credentials',
 		SharedWorkflow: 'shared_workflow',
 		Settings: 'settings',
+		InstalledPackages: 'installed_packages',
+		InstalledNodes: 'installed_nodes',
 	};
 
 	if (dbType === 'postgresdb') {
