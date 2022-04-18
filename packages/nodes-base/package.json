@@ -428,6 +428,7 @@
       "dist/nodes/Freshdesk/Freshdesk.node.js",
       "dist/nodes/Freshservice/Freshservice.node.js",
       "dist/nodes/FreshworksCrm/FreshworksCrm.node.js",
+      "dist/nodes/FriendGrid/FriendGrid.node.js",
       "dist/nodes/Ftp/Ftp.node.js",
       "dist/nodes/Function/Function.node.js",
       "dist/nodes/FunctionItem/FunctionItem.node.js",
